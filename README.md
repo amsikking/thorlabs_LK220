@@ -1,5 +1,5 @@
 # thorlabs_LK220
-Python device adaptor: Thorlabs LK220 thermoelectric liquid chiller, 200 W
+Python device adaptor: Thorlabs LK220 thermoelectric liquid chiller, 200 W.
 ## Quick start:
 - Install the GUI (from Thorlabs) and check the chiller. It should be 
 straightforward run and find the COM port.
