@@ -10,4 +10,5 @@ straightforward run and find the COM port.
 ## Details:
 - See the manual for details on how to operate the chiller (a version included here for convenience).
 - GUI version V1.0.3 was used here.
-Note: I was not able to decipher the byte (or bytes) from the 'get device state' command ('ST?').
+
+**Note:** I was not able to decipher the byte (or bytes) from the 'get device state' command ('ST?').
